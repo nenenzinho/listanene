@@ -1,1 +1,5 @@
-http://login.companyiptv.com.br/get.php?username=doni&password=3n1nh3ka&type=m3u_plus&output=m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="BBB nene
+
+https://m3u9.ml/a2/hls1/bbb22a.m3u8?mu3zAQc9HC3GbwJq=SsSDeylPbNvEtjWXtU0Hzw&3U1G7qaTxrPbalZnEx=1644015413
