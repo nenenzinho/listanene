@@ -36,7 +36,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w
 
 
 #EXTINF:-1 tvg-logo="" group-title="AO infantil","Tooncast
-https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8?nimblesessionid=1983286&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIyIDM6MjA6MDUgUE0maGFzaF92YWx1ZT0rTkhmTDRMN2RwSW50c0Zhb29JQTJnPT0mdmFsaWRtaW51dGVzPTkw
+https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8?nimblesessionid=1984149&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIyIDM6NDQ6NTkgUE0maGFzaF92YWx1ZT1NUVRzZGRpSTl6YnI0NnlEZlN0YmxRPT0mdmFsaWRtaW51dGVzPTkw
 
 #EXTINF:-1 tvg-logo="" group-title="AO Abertos"," Globo HD
 https://cdn1.xvideosporn.me/p2p/globosp/chunks.m3u8?nimblesessionid=404230&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIyIDM6MjQ6MjkgUE0maGFzaF92YWx1ZT1YeVo5ZENDcDh1OWpHNFdtUHh0WEZRPT0mdmFsaWRtaW51dGVzPTkw
