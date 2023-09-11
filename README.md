@@ -1,42 +1,1307 @@
-
-Top lista 
-
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="AO VIVO","TELA DE SUCESSOS
-https://c06-cdn05-oxble.xyz/filme-sucessos/tracks-v1a1/mono.m3u8?token=30d9b3d2f54d8fc8991cb7e63a5da3423eb63884-bf32ac5a9d9c2cff7c5ec5718790e911-1652543370-1652539770&remote=172.71.10.6
-#EXTINF:-1 tvg-logo="" group-title="AO VIVO"," CINE FILMES NACIONAIS
-https://c06-cdn05-oxble.xyz/filme-nacionais/tracks-v1a1/mono.m3u8?token=76c397c49366724552c300ebd2ba2ab595c242c1-47136a5f9e180c149215a611cece4030-1652543483-1652539883&remote=172.71.6.116
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," CINE AÇAO 24 HRS
-https://c06-cdn05-oxble.xyz/filme-acao/tracks-v1a1/mono.m3u8?token=de99fbea35c13392734f2d686f6b1e9d10b3325e-8b3a0682bb2fe5c24073431640beafc6-1652543598-1652539998&remote=172.71.6.116
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," CINE  DRAMA 24 HRS
-https://c06-cdn05-oxble.xyz/filme-drama/tracks-v1a1/mono.m3u8?token=bb7fbfed41e61a68104f010317df975074ecfd04-077d138be5d651162668990dbe273113-1652543672-1652540072&remote=172.71.10.76
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," CINE CLÁSSICOS 24 HRS
-https://c06-cdn05-oxble.xyz/filme-classico/tracks-v1a1/mono.m3u8?token=ea33f361b4fb4d80d0bf6a86daa39822d96ea1cf-db312824edcaad6ec1bb836f1c36e962-1652543747-1652540147&remote=172.71.10.24
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," CINE COMÉDIA 24 HRS
-https://c06-cdn05-oxble.xyz/filme-comedia/tracks-v1a1/mono.m3u8?token=43f27ab4c2bb1d085f55296f9b1683f5a99075c3-55ea948bcc5e9de1e24a25e48a7d1cb6-1652543835-1652540235&remote=172.68.18.114
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," FILMES 24 HRS
-https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," REDETV oficial
-https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME"," Rakuten
-https://rakuten-family-14-pt.samsung.wurl.tv/3000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AO FILME","Ghost TV
-https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1114643163.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="AO Abertos","SBT
-https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w181478534.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="AO infantil","Tooncast
-https://live.xvideosporn.me/p2p/tooncast/chunks.m3u8?nimblesessionid=2015175&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIyIDk6MjI6MzggUE0maGFzaF92YWx1ZT1UQm9IUDlYUFpkZDhteWtVNndwTzVnPT0mdmFsaWRtaW51dGVzPTkw
-
-#EXTINF:-1 tvg-logo="" group-title="AO Abertos"," HBO mundi
-https://live.xvideosporn.me/p2p/hbomundi/chunks.m3u8?nimblesessionid=2015351&wmsAuthSign=c2VydmVyX3RpbWU9NS8xNC8yMDIyIDk6MjU6NTQgUE0maGFzaF92YWx1ZT1RNGY4VUFYcktNMFI1TytMQng4ZU1BPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1,3 PALAVRINHAS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/670
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/671
+#EXTINF:-1,A MANSAO FOSTER
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/674
+#EXTINF:-1,A RODA DO ONIBUS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/675
+#EXTINF:-1,A&E 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/225
+#EXTINF:-1,A&E HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/226
+#EXTINF:-1,AGRO+ 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/852
+#EXTINF:-1,ALADDIN
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/676
+#EXTINF:-1,AMAZON ESPORTES 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1067
+#EXTINF:-1,AMAZON ESPORTES 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1010
+#EXTINF:-1,AMAZON ESPORTES 3
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1161
+#EXTINF:-1,AMAZON ESPORTES 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1162
+#EXTINF:-1,AMC 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/228
+#EXTINF:-1,AMC DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/790
+#EXTINF:-1,AMC HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/229
+#EXTINF:-1,AMC HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1020
+#EXTINF:-1,ANIMAL PLANET 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/61
+#EXTINF:-1,ANIMAL PLANET HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/62
+#EXTINF:-1,ANIMAL PLANET HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/994
+#EXTINF:-1,ANIMAL PLANET LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/871
+#EXTINF:-1,AQUI NA FAZENDA MAIARA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/853
+#EXTINF:-1,AQUI NA FAZENDA RATINHO HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/854
+#EXTINF:-1,ARTE 1 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/231
+#EXTINF:-1,ARTE 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/232
+#EXTINF:-1,AS AVENTURAS DO BATMAN
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/677
+#EXTINF:-1,AXN 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/233
+#EXTINF:-1,AXN HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/234
+#EXTINF:-1,BABY TV 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/767
+#EXTINF:-1,BABY TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/342
+#EXTINF:-1,BABY TV PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/881
+#EXTINF:-1,BAND MINAS UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/481
+#EXTINF:-1,BAND NEWS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/482
+#EXTINF:-1,BAND NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/432
+#EXTINF:-1,BAND NORDESTE UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/483
+#EXTINF:-1,BAND SP 4k
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/484
+#EXTINF:-1,BAND SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/485
+#EXTINF:-1,BAND SPORTS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/120
+#EXTINF:-1,BAND SPORTS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/121
+#EXTINF:-1,BEIN SPORTS 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/901
+#EXTINF:-1,BEIN SPORTS 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/902
+#EXTINF:-1,BEIN SPORTS 3
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/903
+#EXTINF:-1,BEIN SPORTS 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/904
+#EXTINF:-1,BEIN SPORTS 5 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/905
+#EXTINF:-1,BEIN SPORTS 6 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/906
+#EXTINF:-1,BEIN SPORTS 7
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/907
+#EXTINF:-1,BEN 10
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/678
+#EXTINF:-1,BIS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/419
+#EXTINF:-1,BIS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/420
+#EXTINF:-1,BOB ESPONJA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/679
+#EXTINF:-1,BOOMERANG LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/862
+#EXTINF:-1,CANAL BOI HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/486
+#EXTINF:-1,CANAL BRASIL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/236
+#EXTINF:-1,CANAL BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/237
+#EXTINF:-1,CANAL PANDA PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/887
+#EXTINF:-1,CANCAO NOVA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/96
+#EXTINF:-1,CANCAO NOVA UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/97
+#EXTINF:-1,CARTOON NETWORK 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/346
+#EXTINF:-1,CARTOON NETWORK HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/347
+#EXTINF:-1,CARTOON NETWORK HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1002
+#EXTINF:-1,CARTOON NETWORK LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/855
+#EXTINF:-1,CARTOON NETWORK PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/882
+#EXTINF:-1,CARTOONITO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/344
+#EXTINF:-1,CARTOONITO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/345
+#EXTINF:-1,CAVALEIROS DO ZODIACO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/680
+#EXTINF:-1,CAZE TV
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1149
+#EXTINF:-1,CHAVES
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/682
+#EXTINF:-1,CINE SKY 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/754
+#EXTINF:-1,CINE SKY 10
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/764
+#EXTINF:-1,CINE SKY 11
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/809
+#EXTINF:-1,CINE SKY 12
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/810
+#EXTINF:-1,CINE SKY 13
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/811
+#EXTINF:-1,CINE SKY 14
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/812
+#EXTINF:-1,CINE SKY 15
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/813
+#EXTINF:-1,CINE SKY 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/755
+#EXTINF:-1,CINE SKY 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/757
+#EXTINF:-1,CINE SKY 6
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/760
+#EXTINF:-1,CINE SKY 7
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/761
+#EXTINF:-1,CINE SKY 9
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/763
+#EXTINF:-1,CINEMAX 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/239
+#EXTINF:-1,CINEMAX HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/240
+#EXTINF:-1,CNN BRASIL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/433
+#EXTINF:-1,CNN BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/434
+#EXTINF:-1,CNN BRASIL HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1018
+#EXTINF:-1,CNN ESPANHOL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/436
+#EXTINF:-1,CNN INTERNACIONAL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/438
+#EXTINF:-1,COMBATE 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/122
+#EXTINF:-1,COMBATE HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/123
+#EXTINF:-1,COMBATE HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1001
+#EXTINF:-1,COMEDY CENTRAL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/99
+#EXTINF:-1,COMEDY CENTRAL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/98
+#EXTINF:-1,CURTA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/100
+#EXTINF:-1,DAZN 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/206
+#EXTINF:-1,DAZN 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/821
+#EXTINF:-1,DAZN 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/205
+#EXTINF:-1,DAZN 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/822
+#EXTINF:-1,DAZN 3 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/823
+#EXTINF:-1,DAZN 4 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/824
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/65
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/66
+#EXTINF:-1,DISCOVERY CHANNEL LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/870
+#EXTINF:-1,DISCOVERY CHANNEL PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/892
+#EXTINF:-1,DISCOVERY CIVILIZATION LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/869
+#EXTINF:-1,DISCOVERY H&H 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/67
+#EXTINF:-1,DISCOVERY H&H HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/68
+#EXTINF:-1,DISCOVERY H&H HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1021
+#EXTINF:-1,DISCOVERY HOME&HEALTH LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/863
+#EXTINF:-1,DISCOVERY ID 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/69
+#EXTINF:-1,DISCOVERY ID HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/70
+#EXTINF:-1,DISCOVERY ID PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/894
+#EXTINF:-1,DISCOVERY INVESTIGATION LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/864
+#EXTINF:-1,DISCOVERY KIDS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/348
+#EXTINF:-1,DISCOVERY KIDS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/349
+#EXTINF:-1,DISCOVERY SCIENCE 4k
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/71
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/72
+#EXTINF:-1,DISCOVERY SHOWCASE PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/893
+#EXTINF:-1,DISCOVERY TEATHER LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/866
+#EXTINF:-1,DISCOVERY THEATER 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/73
+#EXTINF:-1,DISCOVERY THEATER HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/74
+#EXTINF:-1,DISCOVERY TLC LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/867
+#EXTINF:-1,DISCOVERY TURBO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/75
+#EXTINF:-1,DISCOVERY TURBO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/76
+#EXTINF:-1,DISCOVERY TURBO HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1022
+#EXTINF:-1,DISCOVERY TURBO LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/868
+#EXTINF:-1,DISCOVERY WORLD 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/77
+#EXTINF:-1,DISCOVERY WORLD HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/78
+#EXTINF:-1,DISCOVERY WORLD LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/865
+#EXTINF:-1,DISNEY CHANNEL  4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/351
+#EXTINF:-1,DISNEY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/352
+#EXTINF:-1,DISNEY CHANNEL LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/856
+#EXTINF:-1,DISNEY CHANNEL PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/883
+#EXTINF:-1,DOG TV HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/879
+#EXTINF:-1,DOIS HOMENS E MEIO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/683
+#EXTINF:-1,DRAGON BALL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/684
+#EXTINF:-1,DRAGON BALL SUPER
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/686
+#EXTINF:-1,DRAGON BALL Z
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/687
+#EXTINF:-1,E! 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/101
+#EXTINF:-1,E! 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/102
+#EXTINF:-1,E! HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/103
+#EXTINF:-1,ELEVEN SPORTS 1 4K 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/124
+#EXTINF:-1,ELEVEN SPORTS 2 4K 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/125
+#EXTINF:-1,ELEVEN SPORTS 3 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/801
+#EXTINF:-1,ELEVEN SPORTS 4 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/802
+#EXTINF:-1,ELEVEN SPORTS 5 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/803
+#EXTINF:-1,ELEVEN SPORTS 6 4K 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/804
+#EXTINF:-1,EM BUSCA DO VALE ENCANTADO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/688
+#EXTINF:-1,EPTV RIBEIRAO PRETO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1011
+#EXTINF:-1,ESPN  4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/130
+#EXTINF:-1,ESPN  HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/131
+#EXTINF:-1,ESPN 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/129
+#EXTINF:-1,ESPN 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/135
+#EXTINF:-1,ESPN 3 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/127
+#EXTINF:-1,ESPN 3 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/126
+#EXTINF:-1,ESPN 3 HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/995
+#EXTINF:-1,ESPN 4 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/142
+#EXTINF:-1,ESPN 4 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/143
+#EXTINF:-1,ESPN 4 HDR
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/899
+#EXTINF:-1,ESPN 4 HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1007
+#EXTINF:-1,ESPN EXTRA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/133
+#EXTINF:-1,ESPN EXTRA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/134
+#EXTINF:-1,ESPN EXTRA HDR+ 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1005
+#EXTINF:-1,EUROSPORT 1 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/137
+#EXTINF:-1,EUROSPORT 2 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/138
+#EXTINF:-1,FASHION TV HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/878
+#EXTINF:-1,FILM & ARTS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/242
+#EXTINF:-1,FISH TV 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/79
+#EXTINF:-1,FISH TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/80
+#EXTINF:-1,FOOD NETWORK 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/104
+#EXTINF:-1,FOOD NETWORK HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/105
+#EXTINF:-1,FORMIGA ATOMICA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/691
+#EXTINF:-1,FOX SPORTS 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/139
+#EXTINF:-1,FOX SPORTS 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/140
+#EXTINF:-1,FOX SPORTS 2 HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1008
+#EXTINF:-1,FREAKAZOID
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/692
+#EXTINF:-1,FURACÃO LIVE 4K 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/818
+#EXTINF:-1,FUTURA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/243
+#EXTINF:-1,FX HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/244
+#EXTINF:-1,GLOBO BAHIA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/488
+#EXTINF:-1,GLOBO BRASILIA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/490
+#EXTINF:-1,GLOBO BRASILIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/489
+#EXTINF:-1,GLOBO EPTV CAMPINAS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/780
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/491
+#EXTINF:-1,GLOBO EPTV SUL DE MINAS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1012
+#EXTINF:-1,GLOBO INTEGRAÇÃO JUIZ DE FORA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/494
+#EXTINF:-1,GLOBO INTER TV CABUGI 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/514
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/495
+#EXTINF:-1,GLOBO MINAS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/497
+#EXTINF:-1,GLOBO MINAS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/772
+#EXTINF:-1,GLOBO NEWS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/498
+#EXTINF:-1,GLOBO NEWS DF
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/445
+#EXTINF:-1,GLOBO NORDESTE 4k
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/499
+#EXTINF:-1,GLOBO NORDESTE HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/500
+#EXTINF:-1,GLOBO NSC BLUMENAU 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/515
+#EXTINF:-1,GLOBO PREMIUM PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/889
+#EXTINF:-1,GLOBO RBS PORTO ALEGRE 4k
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/501
+#EXTINF:-1,GLOBO REDE AMAZONICA MANAUS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/530
+#EXTINF:-1,GLOBO RJ 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/504
+#EXTINF:-1,GLOBO RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/503
+#EXTINF:-1,GLOBO RPC CURITIBA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/505
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/506
+#EXTINF:-1,GLOBO RPC MARINGA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/507
+#EXTINF:-1,GLOBO RPC MARINGA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/817
+#EXTINF:-1,GLOBO SERGIPE 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1163
+#EXTINF:-1,GLOBO SP 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/511
+#EXTINF:-1,GLOBO SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/510
+#EXTINF:-1,GLOBO TV ANHANGUERA GOIAS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/849
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA 4k
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1117
+#EXTINF:-1,GLOBO TV LIBERAL BELEM 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/554
+#EXTINF:-1,GLOBO TV LIBERAL BELEM HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/773
+#EXTINF:-1,GLOBO TV TEM BAURU HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/968
+#EXTINF:-1,GLOBOSAT + UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/106
+#EXTINF:-1,GLOOB 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/357
+#EXTINF:-1,GLOOB HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/358
+#EXTINF:-1,GLOOBINHO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/359
+#EXTINF:-1,GLOOBINHO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/360
+#EXTINF:-1,GNT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/107
+#EXTINF:-1,GNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/108
+#EXTINF:-1,H2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/815
+#EXTINF:-1,H2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/81
+#EXTINF:-1,H2 LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/872
+#EXTINF:-1,HBO + 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/246
+#EXTINF:-1,HBO + DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/795
+#EXTINF:-1,HBO + HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/245
+#EXTINF:-1,HBO 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/247
+#EXTINF:-1,HBO 2 DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/794
+#EXTINF:-1,HBO 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/248
+#EXTINF:-1,HBO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/251
+#EXTINF:-1,HBO DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/793
+#EXTINF:-1,HBO FAMILY 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/252
+#EXTINF:-1,HBO FAMILY DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/796
+#EXTINF:-1,HBO FAMILY HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/253
+#EXTINF:-1,HBO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/255
+#EXTINF:-1,HBO HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1000
+#EXTINF:-1,HBO MAX 1 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/832
+#EXTINF:-1,HBO MAX 2 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/833
+#EXTINF:-1,HBO MAX 3 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/834
+#EXTINF:-1,HBO MAX 4 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/835
+#EXTINF:-1,HBO MUNDI 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/256
+#EXTINF:-1,HBO MUNDI HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/257
+#EXTINF:-1,HBO PLUS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/258
+#EXTINF:-1,HBO PLUS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/259
+#EXTINF:-1,HBO POP 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/260
+#EXTINF:-1,HBO POP DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/798
+#EXTINF:-1,HBO POP HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/261
+#EXTINF:-1,HBO SIGNATURE 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/264
+#EXTINF:-1,HBO SIGNATURE HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/262
+#EXTINF:-1,HBO XTREME 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/266
+#EXTINF:-1,HBO XTREME HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/267
+#EXTINF:-1,HE-MAN
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/694
+#EXTINF:-1,HGTV 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/816
+#EXTINF:-1,HGTV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/552
+#EXTINF:-1,HGTV HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1006
+#EXTINF:-1,HISTORY CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/83
+#EXTINF:-1,HISTORY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/82
+#EXTINF:-1,HISTORY CHANNEL PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/895
+#EXTINF:-1,HOMEM ARANHA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/695
+#EXTINF:-1,HOMEM ARANHA 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/696
+#EXTINF:-1,HOMEM DE FERRO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/697
+#EXTINF:-1,HOMEM DE FERRO 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/698
+#EXTINF:-1,I-SAT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/268
+#EXTINF:-1,INVESTIGAÇAO CRIMINAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/668
+#EXTINF:-1,JIRAYA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/699
+#EXTINF:-1,JOHNNY BRAVO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/700
+#EXTINF:-1,JOVEM PAN NEWS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/847
+#EXTINF:-1,JOVEM PAN NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/846
+#EXTINF:-1,LIFETIME HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/269
+#EXTINF:-1,LIGA DA JUSTIÇA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/701
+#EXTINF:-1,MASHA E O URSO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/702
+#EXTINF:-1,MEGAPIX 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/270
+#EXTINF:-1,MEGAPIX HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/271
+#EXTINF:-1,MEGAPIX HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/998
+#EXTINF:-1,MODO VIAGEM 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/85
+#EXTINF:-1,MORANGUINHO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/703
+#EXTINF:-1,MOTOR VISION HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/806
+#EXTINF:-1,MTV 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/112
+#EXTINF:-1,MTV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/422
+#EXTINF:-1,MULTISHOW HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/423
+#EXTINF:-1,MUSIC BOX  4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/424
+#EXTINF:-1,NARUTO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/704
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/87
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/88
+#EXTINF:-1,NATIONAL GEOGRAPHIC LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/873
+#EXTINF:-1,NATIONAL GEOGRAPHIC PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/897
+#EXTINF:-1,NBA 1 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1159
+#EXTINF:-1,NBA 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1160
+#EXTINF:-1,NFL 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1127
+#EXTINF:-1,NFL 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1128
+#EXTINF:-1,NFL 3
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1129
+#EXTINF:-1,NFL 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1130
+#EXTINF:-1,NFL 5
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1131
+#EXTINF:-1,NFL 6
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1132
+#EXTINF:-1,NFL NETWORK USA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1133
+#EXTINF:-1,NFL REDZONE USA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1134
+#EXTINF:-1,NHK 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/449
+#EXTINF:-1,NHK HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/450
+#EXTINF:-1,NICK JR 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/363
+#EXTINF:-1,NICK JR HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/364
+#EXTINF:-1,NICK JR LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/859
+#EXTINF:-1,NICK JR PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/885
+#EXTINF:-1,NICK MUSIC LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/860
+#EXTINF:-1,NICKELODEON 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/365
+#EXTINF:-1,NICKELODEON HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/768
+#EXTINF:-1,NICKELODEON PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/886
+#EXTINF:-1,NOSSO FUTEBOL 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1135
+#EXTINF:-1,NOSSO FUTEBOL 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1136
+#EXTINF:-1,NOSSO FUTEBOL 3
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1137
+#EXTINF:-1,NOSSO FUTEBOL 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1138
+#EXTINF:-1,NOVO TEMPO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/556
+#EXTINF:-1,NSPORTS 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1068
+#EXTINF:-1,NSPORTS 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1069
+#EXTINF:-1,OFF 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/273
+#EXTINF:-1,OFF HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/274
+#EXTINF:-1,ONE PIECE EAST BLUE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/705
+#EXTINF:-1,OS FLINSTONES
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/706
+#EXTINF:-1,OS JETSON
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/707
+#EXTINF:-1,OS PADRINHOS MAGICOS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/708
+#EXTINF:-1,OS PATOS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/709
+#EXTINF:-1,OS SIMPSONS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/710
+#EXTINF:-1,PAI ETERNO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/939
+#EXTINF:-1,PANDA BIGGS PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/888
+#EXTINF:-1,PARAMOUNT CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/275
+#EXTINF:-1,PARAMOUNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/276
+#EXTINF:-1,PARAMOUNT+ 1 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1152
+#EXTINF:-1,PARAMOUNT+ 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1153
+#EXTINF:-1,PARAMOUNT+ 3 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1154
+#EXTINF:-1,PARAMOUNT+ 4 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1155
+#EXTINF:-1,PATO DONALD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/712
+#EXTINF:-1,PAY PER VIEW ESPORTES 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/989
+#EXTINF:-1,PEPPA PIG
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/713
+#EXTINF:-1,PEQUENA SEREIA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/714
+#EXTINF:-1,PERNALONGA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/715
+#EXTINF:-1,PICA PAU
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/716
+#EXTINF:-1,PINK E CEREBRO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/717
+#EXTINF:-1,PINTINHO AMARELINHO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/718
+#EXTINF:-1,PJ MASKS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/719
+#EXTINF:-1,PLAY TV
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/426
+#EXTINF:-1,POKEMON
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/720
+#EXTINF:-1,POLICIA MILITAR
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/669
+#EXTINF:-1,POLISHOP HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/427
+#EXTINF:-1,POPEYE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/721
+#EXTINF:-1,PORNBOX 1
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/567
+#EXTINF:-1,PORNBOX 10
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/576
+#EXTINF:-1,PORNBOX 100
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/666
+#EXTINF:-1,PORNBOX 11
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/577
+#EXTINF:-1,PORNBOX 12
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/578
+#EXTINF:-1,PORNBOX 13
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/579
+#EXTINF:-1,PORNBOX 14
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/580
+#EXTINF:-1,PORNBOX 15
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/581
+#EXTINF:-1,PORNBOX 16
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/582
+#EXTINF:-1,PORNBOX 17
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/583
+#EXTINF:-1,PORNBOX 18
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/584
+#EXTINF:-1,PORNBOX 19
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/585
+#EXTINF:-1,PORNBOX 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/568
+#EXTINF:-1,PORNBOX 20
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/586
+#EXTINF:-1,PORNBOX 21
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/587
+#EXTINF:-1,PORNBOX 22
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/588
+#EXTINF:-1,PORNBOX 23
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/589
+#EXTINF:-1,PORNBOX 24
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/590
+#EXTINF:-1,PORNBOX 25
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/591
+#EXTINF:-1,PORNBOX 26
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/592
+#EXTINF:-1,PORNBOX 27
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/593
+#EXTINF:-1,PORNBOX 28
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/594
+#EXTINF:-1,PORNBOX 29
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/595
+#EXTINF:-1,PORNBOX 3
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/569
+#EXTINF:-1,PORNBOX 30
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/596
+#EXTINF:-1,PORNBOX 31
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/597
+#EXTINF:-1,PORNBOX 32
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/598
+#EXTINF:-1,PORNBOX 33
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/599
+#EXTINF:-1,PORNBOX 34
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/600
+#EXTINF:-1,PORNBOX 35
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/601
+#EXTINF:-1,PORNBOX 36
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/602
+#EXTINF:-1,PORNBOX 37
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/603
+#EXTINF:-1,PORNBOX 38
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/604
+#EXTINF:-1,PORNBOX 39
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/605
+#EXTINF:-1,PORNBOX 4
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/570
+#EXTINF:-1,PORNBOX 40
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/606
+#EXTINF:-1,PORNBOX 41
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/607
+#EXTINF:-1,PORNBOX 42
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/608
+#EXTINF:-1,PORNBOX 43
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/609
+#EXTINF:-1,PORNBOX 44
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/610
+#EXTINF:-1,PORNBOX 45
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/611
+#EXTINF:-1,PORNBOX 46
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/612
+#EXTINF:-1,PORNBOX 47
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/613
+#EXTINF:-1,PORNBOX 48
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/614
+#EXTINF:-1,PORNBOX 49
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/615
+#EXTINF:-1,PORNBOX 5
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/571
+#EXTINF:-1,PORNBOX 50
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/616
+#EXTINF:-1,PORNBOX 51
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/617
+#EXTINF:-1,PORNBOX 52
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/618
+#EXTINF:-1,PORNBOX 53
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/619
+#EXTINF:-1,PORNBOX 54
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/620
+#EXTINF:-1,PORNBOX 55
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/621
+#EXTINF:-1,PORNBOX 56
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/622
+#EXTINF:-1,PORNBOX 57
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/623
+#EXTINF:-1,PORNBOX 58
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/624
+#EXTINF:-1,PORNBOX 59
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/625
+#EXTINF:-1,PORNBOX 6
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/572
+#EXTINF:-1,PORNBOX 60
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/626
+#EXTINF:-1,PORNBOX 61
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/627
+#EXTINF:-1,PORNBOX 62
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/628
+#EXTINF:-1,PORNBOX 63
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/629
+#EXTINF:-1,PORNBOX 64
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/630
+#EXTINF:-1,PORNBOX 65
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/631
+#EXTINF:-1,PORNBOX 66
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/632
+#EXTINF:-1,PORNBOX 67
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/633
+#EXTINF:-1,PORNBOX 68
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/634
+#EXTINF:-1,PORNBOX 69
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/635
+#EXTINF:-1,PORNBOX 7
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/573
+#EXTINF:-1,PORNBOX 70
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/636
+#EXTINF:-1,PORNBOX 71
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/637
+#EXTINF:-1,PORNBOX 72
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/638
+#EXTINF:-1,PORNBOX 73
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/639
+#EXTINF:-1,PORNBOX 74
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/640
+#EXTINF:-1,PORNBOX 75
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/641
+#EXTINF:-1,PORNBOX 76
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/642
+#EXTINF:-1,PORNBOX 77
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/643
+#EXTINF:-1,PORNBOX 78
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/644
+#EXTINF:-1,PORNBOX 79
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/645
+#EXTINF:-1,PORNBOX 8
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/574
+#EXTINF:-1,PORNBOX 80
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/646
+#EXTINF:-1,PORNBOX 81
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/647
+#EXTINF:-1,PORNBOX 82
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/648
+#EXTINF:-1,PORNBOX 83
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/649
+#EXTINF:-1,PORNBOX 84
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/650
+#EXTINF:-1,PORNBOX 85
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/651
+#EXTINF:-1,PORNBOX 86
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/652
+#EXTINF:-1,PORNBOX 87
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/653
+#EXTINF:-1,PORNBOX 88
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/654
+#EXTINF:-1,PORNBOX 89
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/655
+#EXTINF:-1,PORNBOX 9
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/575
+#EXTINF:-1,PORNBOX 90
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/656
+#EXTINF:-1,PORNBOX 91
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/657
+#EXTINF:-1,PORNBOX 92
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/658
+#EXTINF:-1,PORNBOX 93
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/659
+#EXTINF:-1,PORNBOX 94
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/660
+#EXTINF:-1,PORNBOX 95
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/661
+#EXTINF:-1,PORNBOX 96
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/662
+#EXTINF:-1,PORNBOX 97
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/663
+#EXTINF:-1,PORNBOX 98
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/664
+#EXTINF:-1,PORNBOX 99
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/665
+#EXTINF:-1,PREMIERE 1 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/148
+#EXTINF:-1,PREMIERE 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/147
+#EXTINF:-1,PREMIERE 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/149
+#EXTINF:-1,PREMIERE 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/150
+#EXTINF:-1,PREMIERE 3 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/153
+#EXTINF:-1,PREMIERE 3 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/152
+#EXTINF:-1,PREMIERE 4 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/155
+#EXTINF:-1,PREMIERE 4 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/154
+#EXTINF:-1,PREMIERE 5 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/157
+#EXTINF:-1,PREMIERE 5 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/156
+#EXTINF:-1,PREMIERE 6 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/159
+#EXTINF:-1,PREMIERE 6 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/158
+#EXTINF:-1,PREMIERE 7 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/161
+#EXTINF:-1,PREMIERE 7 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/160
+#EXTINF:-1,PREMIERE 8 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/162
+#EXTINF:-1,PREMIERE 9 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/163
+#EXTINF:-1,PREMIERE CLUB HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1003
+#EXTINF:-1,PREMIERE CLUBES 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/165
+#EXTINF:-1,PREMIERE CLUBES HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/164
+#EXTINF:-1,PRIME BOX BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/277
+#EXTINF:-1,RAI ITALIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/428
+#EXTINF:-1,RBI 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/517
+#EXTINF:-1,RBS TV PORTO ALEGRE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/519
+#EXTINF:-1,RECORD BAHIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/520
+#EXTINF:-1,RECORD BRASILIA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/521
+#EXTINF:-1,RECORD DF HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/522
+#EXTINF:-1,RECORD HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/523
+#EXTINF:-1,RECORD MANAUS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/524
+#EXTINF:-1,RECORD MINAS UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/525
+#EXTINF:-1,RECORD NEWS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/452
+#EXTINF:-1,RECORD NEWS U4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/451
+#EXTINF:-1,RECORD PARANA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/526
+#EXTINF:-1,RECORD RJ 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/766
+#EXTINF:-1,RECORD RJ HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/527
+#EXTINF:-1,RECORD SP HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/529
+#EXTINF:-1,RECORD SP HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/999
+#EXTINF:-1,RECORD SP INTERIOR HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/528
+#EXTINF:-1,REDE BRASIL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/531
+#EXTINF:-1,REDE GOSPEL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1052
+#EXTINF:-1,REDE SUPER
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1054
+#EXTINF:-1,REDE TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/532
+#EXTINF:-1,REDE VIDA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/113
+#EXTINF:-1,REINO GELADO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/722
+#EXTINF:-1,SABOR & ARTE HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/877
+#EXTINF:-1,SBT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/534
+#EXTINF:-1,SBT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/540
+#EXTINF:-1,SBT RJ UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/537
+#EXTINF:-1,SBT SERRA DOURADA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/538
+#EXTINF:-1,SHOPTIME  4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/799
+#EXTINF:-1,SHURATO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/724
+#EXTINF:-1,SIMON
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/726
+#EXTINF:-1,SKY SPORTS F1 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/808
+#EXTINF:-1,SONY CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/238
+#EXTINF:-1,SPACE 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/278
+#EXTINF:-1,SPACE HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/279
+#EXTINF:-1,SPORT TV 1 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/167
+#EXTINF:-1,SPORT TV 2 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/168
+#EXTINF:-1,SPORT TV 3 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/169
+#EXTINF:-1,SPORT TV 4 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/170
+#EXTINF:-1,SPORT TV 5 HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/171
+#EXTINF:-1,SPORT TV+ HD PT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/166
+#EXTINF:-1,SPORTING HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/805
+#EXTINF:-1,SPORTV 1 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/183
+#EXTINF:-1,SPORTV 1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/182
+#EXTINF:-1,SPORTV 1 HDR
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/178
+#EXTINF:-1,SPORTV 1 HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/993
+#EXTINF:-1,SPORTV 2 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/172
+#EXTINF:-1,SPORTV 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/173
+#EXTINF:-1,SPORTV 2 HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1016
+#EXTINF:-1,SPORTV 3 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/175
+#EXTINF:-1,SPORTV 3 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/176
+#EXTINF:-1,STAR CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/281
+#EXTINF:-1,STAR CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/282
+#EXTINF:-1,STAR+ 1 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/829
+#EXTINF:-1,STAR+ 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/826
+#EXTINF:-1,STAR+ 3 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/827
+#EXTINF:-1,STAR+ 4 HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/828
+#EXTINF:-1,STAR+ 5 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1151
+#EXTINF:-1,STAR+ 6 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1156
+#EXTINF:-1,STAR+ 7 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1157
+#EXTINF:-1,STAR+ 8 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1158
+#EXTINF:-1,STREET FIGHTER
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/727
+#EXTINF:-1,STUDIO UNIVERSAL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/289
+#EXTINF:-1,SUPER MAN
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/728
+#EXTINF:-1,SUPER MAN 2
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/729
+#EXTINF:-1,SYFY HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/781
+#EXTINF:-1,TBS 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/290
+#EXTINF:-1,TBS DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/791
+#EXTINF:-1,TBS HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/291
+#EXTINF:-1,TCM HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/292
+#EXTINF:-1,TCM UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/293
+#EXTINF:-1,TELECINE ACTION 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/294
+#EXTINF:-1,TELECINE ACTION DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/785
+#EXTINF:-1,TELECINE ACTION HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/295
+#EXTINF:-1,TELECINE ACTION HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1019
+#EXTINF:-1,TELECINE CULT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/297
+#EXTINF:-1,TELECINE CULT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/298
+#EXTINF:-1,TELECINE FUN 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/300
+#EXTINF:-1,TELECINE FUN DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/789
+#EXTINF:-1,TELECINE FUN HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/301
+#EXTINF:-1,TELECINE PIPOCA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/303
+#EXTINF:-1,TELECINE PIPOCA DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/788
+#EXTINF:-1,TELECINE PIPOCA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/304
+#EXTINF:-1,TELECINE PIPOCA HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/996
+#EXTINF:-1,TELECINE PREMIUM 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/306
+#EXTINF:-1,TELECINE PREMIUM DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/787
+#EXTINF:-1,TELECINE PREMIUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/307
+#EXTINF:-1,TELECINE PREMIUM HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/997
+#EXTINF:-1,TELECINE TOUCH 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/309
+#EXTINF:-1,TELECINE TOUCH DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/786
+#EXTINF:-1,TELECINE TOUCH HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/310
+#EXTINF:-1,test
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1035
+#EXTINF:-1,TIMAO E PUMBA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/731
+#EXTINF:-1,TLC 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/91
+#EXTINF:-1,TLC HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/92
+#EXTINF:-1,TNT 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/312
+#EXTINF:-1,TNT ESPORTES LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/876
+#EXTINF:-1,TNT HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/313
+#EXTINF:-1,TNT HDR+
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1004
+#EXTINF:-1,TNT NOVELA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1170
+#EXTINF:-1,TNT SERIES 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/314
+#EXTINF:-1,TNT SERIES HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/315
+#EXTINF:-1,TNT SERIES LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/875
+#EXTINF:-1,TODO MUNDO ODEIA O CRIS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/732
+#EXTINF:-1,TOM & JERRY
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/733
+#EXTINF:-1,TOONCAST 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/367
+#EXTINF:-1,TOONCAST HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/368
+#EXTINF:-1,TOONCAST LT
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/861
+#EXTINF:-1,TRACE BRAZUCA HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/969
+#EXTINF:-1,TRAVEL BOX BRASIL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/848
+#EXTINF:-1,TRU TV HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/541
+#EXTINF:-1,TV APARECIDA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/542
+#EXTINF:-1,TV BRASIL 2 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1115
+#EXTINF:-1,TV BRASIL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1114
+#EXTINF:-1,TV CAMARA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1167
+#EXTINF:-1,TV CULTURA UHD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/547
+#EXTINF:-1,TV DIARIO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/548
+#EXTINF:-1,TV EVANGELIZAR HD 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1051
+#EXTINF:-1,TV GAZETA  4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/551
+#EXTINF:-1,TV Gazeta Vitoria ES 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1104
+#EXTINF:-1,TV JUSTICA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/553
+#EXTINF:-1,TV MORENA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1116
+#EXTINF:-1,TV NOVO TEMPO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1053
+#EXTINF:-1,TV RA TIM BUM 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/369
+#EXTINF:-1,TV RA TIM BUM HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/557
+#EXTINF:-1,TV SANTA CRUZ 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1055
+#EXTINF:-1,TV SENADO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1168
+#EXTINF:-1,TV TEM SAO JOSE DO RIO PRETO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/983
+#EXTINF:-1,TV TEM SOROCABA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/562
+#EXTINF:-1,TV TRIBUNA SANTOS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/564
+#EXTINF:-1,TV VANGUARDA S. J. DOS CAMPOS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/565
+#EXTINF:-1,TV VERDES MARES FORTALEZA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/566
+#EXTINF:-1,UFC FIGHT PASS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1125
+#EXTINF:-1,UFC PPV
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1126
+#EXTINF:-1,UNIVERSAL CHANNEL DUAL
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/792
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/319
+#EXTINF:-1,VH1 HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/430
+#EXTINF:-1,VH1 MEGAHITS
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/431
+#EXTINF:-1,VIVA 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/114
+#EXTINF:-1,VIVA HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/116
+#EXTINF:-1,WARNER CHANNEL 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/783
+#EXTINF:-1,WARNER CHANNEL HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/320
+#EXTINF:-1,WOOHOO HD
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/117
+#EXTINF:-1,XPLUS ANIMAÇÃO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/909
+#EXTINF:-1,XPLUS ANOS 80
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1024
+#EXTINF:-1,XPLUS AÇAO 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/911
+#EXTINF:-1,XPLUS COMÉDIA 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/942
+#EXTINF:-1,XPLUS DANCE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1028
+#EXTINF:-1,XPLUS DRAMA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/941
+#EXTINF:-1,XPLUS ELETRONICA
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1026
+#EXTINF:-1,XPLUS FORRO
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1030
+#EXTINF:-1,XPLUS GOSPEL 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1031
+#EXTINF:-1,XPLUS MARVEL & DC
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/912
+#EXTINF:-1,XPLUS MIX
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1032
+#EXTINF:-1,XPLUS PAGODE
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1029
+#EXTINF:-1,XPLUS PIPOCA 01
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1037
+#EXTINF:-1,XPLUS PIPOCA 02
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1038
+#EXTINF:-1,XPLUS PIPOCA 03
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1039
+#EXTINF:-1,XPLUS PIPOCA 04
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1040
+#EXTINF:-1,XPLUS PIPOCA 05
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1041
+#EXTINF:-1,XPLUS PIPOCA 06
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1042
+#EXTINF:-1,XPLUS PIPOCA 07
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1043
+#EXTINF:-1,XPLUS PIPOCA 08
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1044
+#EXTINF:-1,XPLUS PIPOCA 09
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1045
+#EXTINF:-1,XPLUS PIPOCA 10
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1046
+#EXTINF:-1,XPLUS RELAX 
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1027
+#EXTINF:-1,XPLUS ROCK
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1025
+#EXTINF:-1,XPLUS SERTANEJO 01
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1023
+#EXTINF:-1,XXL TV Anal
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1070
+#EXTINF:-1,XXL TV Big Ass
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1071
+#EXTINF:-1,XXL TV Big Dick
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1072
+#EXTINF:-1,XXL TV Big Tits
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1073
+#EXTINF:-1,XXL TV Blonde
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1074
+#EXTINF:-1,XXL TV Blowjob
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1075
+#EXTINF:-1,XXL TV Brunette
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1076
+#EXTINF:-1,XXL TV Compilation
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1077
+#EXTINF:-1,XXL TV Cuckold
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1078
+#EXTINF:-1,XXL TV Fetish
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1079
+#EXTINF:-1,XXL TV Gangbang
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1080
+#EXTINF:-1,XXL TV Gay
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1081
+#EXTINF:-1,XXL TV Hardcore
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1082
+#EXTINF:-1,XXL TV Interracial
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1083
+#EXTINF:-1,XXL TV Latina
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1084
+#EXTINF:-1,XXL TV Lesbian
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1085
+#EXTINF:-1,XXL TV Live Cams
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1086
+#EXTINF:-1,XXL TV MILF
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1087
+#EXTINF:-1,XXL TV Pornstar
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1088
+#EXTINF:-1,XXL TV POV
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1089
+#EXTINF:-1,XXL TV Rough
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1090
+#EXTINF:-1,XXL TV Russian
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1091
+#EXTINF:-1,XXL TV Teen
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1092
+#EXTINF:-1,XXL TV Threesome
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1093
+#EXTINF:-1,ZOOMOO 4K
+http://mn.appserv19.xyz:2095/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/370
+#EXTINF:-1,demp
+http://mn.appserv19.xyz:2095/movie/Xplus-1-S5MXMKQEx7/zOXLKd1LyZ/1097.mp4
